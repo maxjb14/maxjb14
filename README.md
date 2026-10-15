@@ -4,6 +4,7 @@ Computer Engineering student at CUCEI (Universidad de Guadalajara), focusing on 
 
 **Currently:**
 - Taking [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/) (Harvard University)
+- Taking the **E3 for AI Industry** diploma (English, Ethics & Employability), a 100-hour program supported by the U.S. Embassy in Mexico through the Regional English Language Office (RELO), in collaboration with Universidad de Guadalajara (CUCEI)
 - Contributing to a research project: a machine learning model for predicting joint inflammation from clinical data
 
 **Background:**
